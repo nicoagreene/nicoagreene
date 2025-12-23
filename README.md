@@ -1,7 +1,6 @@
 Hi there 👋
 
-- 🔭 I’m currently working on web application where you play the Cambio Card game
-- 🌱 I’m currently learning javascript
+- 🔭 I’m currently working on a chrome extension that quantifies the environmental impact of AI use
 - 📫 How to reach me: nicoagreene@gmail.com
 
 <!--
